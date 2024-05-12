@@ -1,0 +1,32 @@
+Hálózati hibák hatása a QoS-re IP hálózatokban
+A QoS mérés környezete és anyagainak elérhetősége
+Cloud: VIK Cloud https://fured.cloud.bme.hu
+Template: FLEXPLANET HU v2.0 v2
+
+Mérési utasítás: http://www.hit.bme.hu/~jakab/edu/FLEXPLANET_Meresek/QoS/QoS_meresi_utasitas.pdf
+Jegyzõkönyv template: http://www.hit.bme.hu/~jakab/edu/FLEXPLANET_Meresek/QoS/QoS-22_jegyzokonyv.doc
+
+QoS összefoglaló: http://www.hit.bme.hu/~jakab/edu/FLEXPLANET_Meresek/QoS/QoS_osszefoglalo_v1.pdf
+
+Két cikk a témakörben
+
+JOHN SOLDATOS et. al.
+ON THE BUILDING BLOCKS OF QUALITY OF SERVICE IN HETEROGENEOUS IP NETWORKS
+IEEE Communications Surveys & Tutorials • First Quarter 2005
+http://www.hit.bme.hu/~jakab/edu/litr/QoS/soldatos.pdf  
+
+T. Jakab, G. Horváth, É. Csákány, Ms L. Konkoly
+Availability and QoS Performance Evaluation of Public Service IP Networks
+In: Proceedings of 2007 International Symposium on Performance Evaluation of Computer and Telecommunication Systems.
+     cikk: http://www.hit.bme.hu/~jakab/edu/FLEXPLANET_Meresek/DTR/Irodalom/SPECTS2007_Paper114.pdf
+     prezentáció: http://www.hit.bme.hu/~jakab/edu/FLEXPLANET_Meresek/DTR/Irodalom/SPECTS07_pres01.pdf
+
+
+FLEXPLANET szoftver
+
+Grafikus interfész összefoglalása: http://www.hit.bme.hu/~jakab/edu/FLEXPLANET_Meresek/FLEXPLANET/PlanView_alapok_v1.pdf
+
+Szoftver kézikönyv: http://www.hit.bme.hu/~jakab/edu/FLEXPLANET_Meresek/FLEXPLANET/FlexPlanet_Manual_v2.pdf
+  rövidebb kivonat: http://www.hit.bme.hu/~jakab/edu/FLEXPLANET_Meresek/FLEXPLANET/FPMankiv.pdf
+
+Konzol kézikönyv: http://www.hit.bme.hu/~jakab/edu/FLEXPLANET_Meresek/FLEXPLANET/FPCom.pdf
